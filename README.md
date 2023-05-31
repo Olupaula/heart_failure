@@ -31,7 +31,7 @@ The model may help prevent death by heart failure by examining whether a patient
 4. [Decision Tree (DT)](https://online.stat.psu.edu/stat857/node/236/)
 
 ### Evaluation Metrics:
-[accuracy score](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
+[Accuracy score](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
 was used to evaluate the models.
 
 
