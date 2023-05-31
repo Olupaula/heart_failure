@@ -30,7 +30,7 @@ The model may help prevent death by heart failure by examining whether a patient
 3. [Support Vector Machine (SVM)](https://www.researchgate.net/publication/221621494_Support_Vector_Machines_Theory_and_Applications/link/0912f50fd2564392c6000000/download)
 4. [Decision Tree (DT)](https://online.stat.psu.edu/stat857/node/236/)
 
-### Evaluation Metrics:
+### Evaluation Metric:
 [Accuracy score](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
 was used to evaluate the models.
 
