@@ -36,8 +36,6 @@ was used to evaluate the models.
 
 
 ### The best Model:
-When the using the metric Mean Squared Error, the model with the lowest mean squared model is the best among all models
-under consideration. However, while using the Coefficient of Determination, the model with the highest Coefficient of
-Variation is preferable. Using both metrics, the Decision Tree came up as the best model
+The higher the accuracy score, the better then model. The Decision Tree had the highest accuracy score and so it is the best model among all the models considered.
 
 [View Code on Kaggle](https://www.kaggle.com/oluade111/heart-failure)
