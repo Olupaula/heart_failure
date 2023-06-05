@@ -37,7 +37,7 @@ was used to evaluate the models.
 ### The best Model:
 The higher the accuracy score, the better then model. The Decision Tree had the highest accuracy score and so it is the best model among all the models considered.
 
-###Packages used: 
+### Packages used: 
 R: 
  - Caret
  
