@@ -34,8 +34,11 @@ The model may help prevent death by heart failure by examining whether a patient
 [Accuracy score](https://developers.google.com/machine-learning/crash-course/classification/accuracy)
 was used to evaluate the models.
 
-
 ### The best Model:
 The higher the accuracy score, the better then model. The Decision Tree had the highest accuracy score and so it is the best model among all the models considered.
 
+###Packages used: 
+R: 
+ - Caret
+ 
 [View Code on Kaggle](https://www.kaggle.com/oluade111/heart-failure)
