@@ -41,4 +41,5 @@ The higher the accuracy score, the better then model. The Decision Tree had the 
 R: 
  - Caret
  
-[View Code on Kaggle](https://www.kaggle.com/oluade111/heart-failure)
+[View Code on Kaggle](https://www.kaggle.com/code/oluade111/heart-failure)
+
