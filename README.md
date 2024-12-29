@@ -1,4 +1,4 @@
-# Supervised Learning Alogrithms for Heart Failure Prediction.
+# Supervised Learning Alogrithms for Heart Failure Prediction
 This project titled Heart Failure Takes into consideration a number of features by which it can be predicted whether a person will suffer heart failure (leading to death or not). Heart failure is of course not desirable in our world and should be prevented.
 
 The model may help prevent death by heart failure by examining whether a patients characteristics (predictors) may lead to death. If the current one points to death, then adjusting the patients habits like smoking and others may lead to a longer life.
