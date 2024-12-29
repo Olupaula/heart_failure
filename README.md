@@ -1,4 +1,4 @@
-# Heart Failure
+# Supervised Learning Alogrithms for Heart Failure Prediction.
 This project titled Heart Failure Takes into consideration a number of features by which it can be predicted whether a person will suffer heart failure (leading to death or not). Heart failure is of course not desirable in our world and should be prevented.
 
 The model may help prevent death by heart failure by examining whether a patients characteristics (predictors) may lead to death. If the current one points to death, then adjusting the patients habits like smoking and others may lead to a longer life.
@@ -25,7 +25,7 @@ The model may help prevent death by heart failure by examining whether a patient
  death event: if the patient deceased during the follow-up period (boolean)
 
 ### Regression Techniques used:
-1. [Linear Regression](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100107226;jsessionid=BAD370C49344F63EAF545090E2E032DE)
+1. [Logistic Regression](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100107226;jsessionid=BAD370C49344F63EAF545090E2E032DE)
 2. [K-Nearest Neighbor (KNN)](https://online.stat.psu.edu/stat508/lesson/k)
 3. [Support Vector Machine (SVM)](https://www.researchgate.net/publication/221621494_Support_Vector_Machines_Theory_and_Applications/link/0912f50fd2564392c6000000/download)
 4. [Decision Tree (DT)](https://online.stat.psu.edu/stat857/node/236/)
